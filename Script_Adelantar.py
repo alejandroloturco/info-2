@@ -4,7 +4,7 @@ class Persona():
         self.__nombre = a
         self.__cedula = p
         self.__genero = ""
-#Propiedades
+#Propiedades_alejo
     # Setters
     def asignarNombre(self,nombre):
         self.__nombre = nombre
