@@ -1,11 +1,10 @@
-
+print("No estoy entendiendo")
 class Persona():
     def __init__(self,a:str, *, p:str = "pro" ):
         self.__nombre = a
         self.__cedula = p
         self.__genero = ""
-#Propiedades_alejo
-    # Setters
+#Propiedades
     def asignarNombre(self,nombre):
         self.__nombre = nombre
     def asignarCedula(self,cedula):
